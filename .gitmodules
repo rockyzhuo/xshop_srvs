@@ -1,0 +1,3 @@
+[submodule "user_srv"]
+	path = user_srv
+	url = https://github.com/rockyzhuo/user_srv.git
